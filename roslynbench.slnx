@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="100kclaff/100kclaff.csproj" Id="6c055f37-0c0d-41b1-ab8e-e8796bdd28bb" />
+  <Project Path="100Kclass/100Kclass.csproj" Id="9afeb9ea-62b8-4fd2-ab63-99527463aa4f" />
+  <Project Path="100Kclassdeco/100Kclassdeco.csproj" Id="22844396-9020-4629-be0a-65764b10b2bc" />
+  <Project Path="100kclsdecmin/100Kclsdecmin.csproj" />
+  <Project Path="100kif/100kif.csproj" Id="2a7c9ad7-4ef1-48cf-824d-b7e25781f297" />
+  <Project Path="100klambda/100Klambda.csproj" />
+  <Project Path="100Krec/100Krec.csproj" Id="7ddb8a43-92e3-4a5e-afb5-6729d219965c" />
+  <Project Path="100kslambda/100Kslambda.csproj" />
+  <Project Path="100Ksrec/100Ksrec.csproj" Id="5a96816e-7fd6-40a8-93f1-f89e3e11ed5d" />
+  <Project Path="100kxmldoc/100Kxmldoc.csproj" />
+  <Project Path="1megarec/1megarec.csproj" />
+  <Project Path="200Kclass/200Kclass.csproj" />
+  <Project Path="50Kclass/50Kclass.csproj" />
+</Solution>
