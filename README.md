@@ -1,3 +1,6 @@
+shitty not-that-much realistic compiling speed test  
+if i ever get time and force of will i could think of making something more useful
+
 ```
 .net 10.0.2 release  
 -------------------------  
