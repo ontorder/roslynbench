@@ -19,4 +19,7 @@ test            time            out size        src size        description
 100kclassmin    47.1 sec        10.104 KB       16.1 MB         classdeco, no spaces \n \r
 50Kclass        6.0 sec         2.604 KB        1.15 MB         class name;
 200kclass       11.9 sec        10.904 KB       4.7 MB          class name;
+100kstring      3.1 sec         2.204 KB        1.6 MB          s = "0000";
+100k@string     3.5 src         2.204 KB        1.7 MB          s = @"0000";
 ```
+
